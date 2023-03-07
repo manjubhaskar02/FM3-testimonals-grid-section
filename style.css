@@ -1,0 +1,70 @@
+.content {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
+}
+
+.barlow {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.violet {
+    background-color: hsl(263, 55%, 52%);
+}
+
+.gray-blue {
+    background-color: hsl(217, 19%, 35%);
+}
+
+.black-blue {
+    background-color: hsl(219, 29%, 14%);
+}
+
+.light-gray {
+    color: hsl(0, 0%, 81%);
+}
+
+.gray {
+    color: hsl(210, 46%, 95%)
+}
+
+.dark {
+    color: hsl(217, 19%, 35%);
+}
+
+.verify {
+    color: hsla(0, 0%, 81%, 0.5);
+}
+
+.verify-black {
+    color: hsla(217, 19%, 35%, 0.5);
+
+}
+
+.review {
+    color: hsla(0, 0%, 81%, 0.7);
+}
+
+.review-black {
+    color: hsl(217, 19%, 35%, 0.7);
+}
+
+.rim {
+    background-color: hsla(0, 0%, 81%, 0.5);
+}
+
+.text {
+    padding-inline-end: 1px;
+}
+
+.background-blue {
+    background-color: hsl(210, 46%, 95%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
